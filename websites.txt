@@ -1,0 +1,16 @@
+! ====================
+! Websites
+! ====================
+
+! Stackoverflow mirrors
+coddingbuddy.com
+newbedev.com
+
+! GitHub mirrors
+pythonrepo.com
+reposhub.com
+gitmemory.cn
+giters.com
+
+! Machine-generated comparisons
+saashub.com

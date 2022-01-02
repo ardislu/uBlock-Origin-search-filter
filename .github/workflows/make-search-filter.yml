@@ -1,0 +1,33 @@
+name: Search filter CI
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - nuisances.txt
+      - websites.txt
+      - make-search-filter.sh
+      - ".github/workflows/make-search-filter.yml"
+
+jobs:
+  make-search-filter:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Build search-filter.txt
+        run: |
+          chmod +x ./make-search-filter.sh
+          sudo ./make-search-filter.sh
+
+      - name: Push search-filter.txt to the orphan release branch
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git checkout --orphan release
+          git reset
+          git add -f search-filter.txt
+          git commit -m "Build search-filter.txt"
+          git push -f --set-upstream origin release

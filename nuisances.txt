@@ -1,0 +1,6 @@
+! ====================
+! Nuisances
+! ====================
+
+! Google's "People also search for" box
+google.com##div[id^="eob_"]
