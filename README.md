@@ -1,5 +1,7 @@
 # uBlock-Origin-search-filter
 
+![search filter CI badge](https://github.com/ardislu/uBlock-Origin-search-filter/actions/workflows/make-search-filter.yml/badge.svg)
+
 My personal [uBlock Origin](https://ublockorigin.com) filter list which removes low-quality websites and nuisances from search engine results.
 
 Currently supported search engines:
