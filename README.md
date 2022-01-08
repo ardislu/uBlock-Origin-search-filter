@@ -4,19 +4,25 @@
 
 My personal [uBlock Origin](https://ublockorigin.com) filter list which removes low-quality websites and nuisances from search engine results.
 
-Currently supported search engines:
+## Filters
+
+This filter list removes the following from search engine results:
+
+### Websites
+
+- Stackoverflow mirrors
+- GitHub mirrors
+- Machine-generated comparisons
+
+### Nuisances
+
+- Google's "People also search for" box ([why?](https://webapps.stackexchange.com/questions/115038/how-to-stop-googles-people-also-search-for))
+
+## Supported search engines:
 - Google
 - Bing
 - Yahoo
 - DuckDuckGo
-
-Similar projects:
-- [uBlacklist](https://iorate.github.io/ublacklist) and [awesome-ublacklist](https://github.com/rjaus/awesome-ublacklist)
-- [only-stackoverflow](https://github.com/RyuaNerin/only-stackoverflow)
-- [uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter)
-- [uBlock Origin - Shitty Copy-Paste websites filter](https://github.com/stroobants-dev/ublock-origin-shitty-copies-filter)
-- [Filter Lists for uBlock Origin](https://github.com/MrBukLau/filter-lists-for-ublock-origin)
-- [Google Hit Hider by Domain](https://greasyfork.org/en/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites)
 
 ## How to add this filter list to uBlock Origin
 
@@ -36,16 +42,10 @@ https://raw.githubusercontent.com/ardislu/uBlock-Origin-search-filter/release/se
 
 4. Apply changes to uBlock Origin
 
-## Filters
-
-This filter list removes the following from search engine results:
-
-### Websites
-
-- Stackoverflow mirrors
-- GitHub mirrors
-- Machine-generated comparisons
-
-### Nuisances
-
-- Google's "People also search for" box ([why?](https://webapps.stackexchange.com/questions/115038/how-to-stop-googles-people-also-search-for))
+## Similar projects
+- [uBlacklist](https://iorate.github.io/ublacklist) and [awesome-ublacklist](https://github.com/rjaus/awesome-ublacklist)
+- [only-stackoverflow](https://github.com/RyuaNerin/only-stackoverflow)
+- [uBlock-Origin-dev-filter](https://github.com/quenhus/uBlock-Origin-dev-filter)
+- [uBlock Origin - Shitty Copy-Paste websites filter](https://github.com/stroobants-dev/ublock-origin-shitty-copies-filter)
+- [Filter Lists for uBlock Origin](https://github.com/MrBukLau/filter-lists-for-ublock-origin)
+- [Google Hit Hider by Domain](https://greasyfork.org/en/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites)
