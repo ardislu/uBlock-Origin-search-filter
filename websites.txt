@@ -12,6 +12,10 @@ reposhub.com
 gitmemory.cn
 giters.com
 githubmate.com
+issueexplorer.com
+bobfeldbauer.com
+pythonlang.dev
+gitmemory.com
 
 ! Machine-generated comparisons
 saashub.com
