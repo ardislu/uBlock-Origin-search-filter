@@ -11,6 +11,7 @@ pythonrepo.com
 reposhub.com
 gitmemory.cn
 giters.com
+githubmate.com
 
 ! Machine-generated comparisons
 saashub.com
