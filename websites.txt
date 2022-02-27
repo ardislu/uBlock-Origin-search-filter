@@ -5,6 +5,8 @@
 ! Stackoverflow mirrors
 coddingbuddy.com
 newbedev.com
+tousu.in
+tutorialmeta.com
 
 ! GitHub mirrors
 pythonrepo.com
