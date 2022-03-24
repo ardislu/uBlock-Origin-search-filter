@@ -7,6 +7,8 @@ coddingbuddy.com
 newbedev.com
 tousu.in
 tutorialmeta.com
+devasking.com
+code-examples.net
 
 ! GitHub mirrors
 pythonrepo.com
