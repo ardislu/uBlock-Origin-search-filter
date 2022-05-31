@@ -9,6 +9,13 @@ tousu.in
 tutorialmeta.com
 devasking.com
 code-examples.net
+syntaxfix.com
+exchangetuts.com
+codegrepper.com
+itecnote.com
+codehunter.cc
+iqcode.com
+grabthiscode.com
 
 ! GitHub mirrors
 pythonrepo.com
