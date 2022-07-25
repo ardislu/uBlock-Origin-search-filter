@@ -16,6 +16,9 @@ itecnote.com
 codehunter.cc
 iqcode.com
 grabthiscode.com
+querythreads.com
+peaku.co
+anycodings.com
 
 ! GitHub mirrors
 pythonrepo.com
