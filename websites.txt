@@ -19,6 +19,7 @@ grabthiscode.com
 querythreads.com
 peaku.co
 anycodings.com
+jtuto.com
 
 ! GitHub mirrors
 pythonrepo.com
