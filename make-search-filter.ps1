@@ -1,6 +1,6 @@
 # Create filter list metadata
 $metadata = @"
-! Title: Search filter
+! Title: Ardis Lu's Search filter
 ! Description: Remove low-quality websites and nuisances from Google, Bing, Yahoo, and DuckDuckGo search results.
 ! Expires: 14 days
 ! Homepage: https://github.com/ardislu/uBlock-Origin-search-filter

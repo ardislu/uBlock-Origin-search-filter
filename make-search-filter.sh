@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Create filter list metadata
-echo '! Title: Search filter' >'search-filter.txt'
+echo "! Title: Ardis Lu's Search filter" >'search-filter.txt'
 echo '! Description: Remove low-quality websites and nuisances from Google, Bing, Yahoo, and DuckDuckGo search results.' >>'search-filter.txt'
 echo '! Expires: 14 days' >>'search-filter.txt'
 echo '! Homepage: https://github.com/ardislu/uBlock-Origin-search-filter' >>'search-filter.txt'
