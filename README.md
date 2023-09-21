@@ -49,3 +49,4 @@ https://raw.githubusercontent.com/ardislu/uBlock-Origin-search-filter/release/se
 - [uBlock Origin - Shitty Copy-Paste websites filter](https://github.com/stroobants-dev/ublock-origin-shitty-copies-filter)
 - [Filter Lists for uBlock Origin](https://github.com/MrBukLau/filter-lists-for-ublock-origin)
 - [Google Hit Hider by Domain](https://greasyfork.org/en/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites)
+- [mig4ng/ublock-origin-filters](https://github.com/mig4ng/ublock-origin-filters)
