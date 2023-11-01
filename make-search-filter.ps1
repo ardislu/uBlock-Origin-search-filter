@@ -4,7 +4,7 @@ $metadata = @"
 ! Description: Remove low-quality websites and nuisances from Google, Bing, Yahoo, and DuckDuckGo search results.
 ! Expires: 14 days
 ! Homepage: https://github.com/ardislu/uBlock-Origin-search-filter
-! Licence: https://github.com/ardislu/uBlock-Origin-search-filter/blob/main/LICENSE
+! Licence: https://github.com/ardislu/uBlock-Origin-search-filter/blob/main/LICENSE`n
 "@
 New-Item .\search-filter.txt -ItemType File -Value $metadata -Force
 
