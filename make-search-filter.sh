@@ -8,7 +8,7 @@ echo '! Homepage: https://github.com/ardislu/uBlock-Origin-search-filter' >>'sea
 echo '! Licence: https://github.com/ardislu/uBlock-Origin-search-filter/blob/main/LICENSE' >>'search-filter.txt'
 
 # Append all lines from nuisances.txt which do not start with ! or whitespace or is an empty line
-grep -Ev '^(!|\s)|^$' ./nuisances.txt >>'search-filter.txt'
+grep -Ev '^(!|\s)|^$' ./nuisances.txt | tr -d '\r' >>'search-filter.txt'
 
 # Create search engine filters for all websites on websites.txt
 grep -Ev '^(!|\s)|^$' ./websites.txt | tr -d '\r' | while read -r line; do
