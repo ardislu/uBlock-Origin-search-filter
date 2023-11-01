@@ -18,3 +18,7 @@ Get-Content .\websites.txt | Where-Object { $_ -notmatch '^(!|\s)|^$' } | ForEac
   "yahoo.*##li:has(a[href*=""$_""])" | Add-Content .\search-filter.txt      # Yahoo
   "duckduckgo.*##[data-domain*=""$_""]" | Add-Content .\search-filter.txt   # DuckDuckGo
 }
+
+# Replace CRLF with LF
+# https://stackoverflow.com/questions/19127741/replace-crlf-using-powershell
+((Get-Content .\search-filter.txt) -join "`n") + "`n" | Set-Content -NoNewline .\search-filter.txt
