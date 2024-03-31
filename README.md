@@ -50,3 +50,5 @@ https://raw.githubusercontent.com/ardislu/uBlock-Origin-search-filter/release/se
 - [Filter Lists for uBlock Origin](https://github.com/MrBukLau/filter-lists-for-ublock-origin)
 - [Google Hit Hider by Domain](https://greasyfork.org/en/scripts/1682-google-hit-hider-by-domain-search-filter-block-sites)
 - [mig4ng/ublock-origin-filters](https://github.com/mig4ng/ublock-origin-filters)
+- [Let's Block It!](https://github.com/letsblockit/letsblockit)
+- [Unhook YouTube](https://unhook.app/)
