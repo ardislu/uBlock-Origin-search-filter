@@ -28,11 +28,11 @@ This filter list removes the following from search engine results:
 
 1. Open uBlock Origin's settings dashboard:
 
-![uBlock Origin settings dashboard](https://raw.githubusercontent.com/ardislu/uBlock-Origin-search-filter/main/.github/settings-dashboard.webp)
+![uBlock Origin settings dashboard](./.github/settings-dashboard.png)
 
-2. Check the Filter lists > Import... checkbox:
+2. Go to Filter lists > Import...:
 
-![import filter lists checkbox](https://raw.githubusercontent.com/ardislu/uBlock-Origin-search-filter/main/.github/import-filter-list.webp)
+![import filter lists textarea](./.github/import-filter-list.png)
 
 3. Paste this filter list's URL:
 
