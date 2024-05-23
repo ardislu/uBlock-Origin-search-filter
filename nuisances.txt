@@ -4,3 +4,9 @@
 
 ! Google's "People also search for" box
 google.com##div[id^="eob_"]
+
+! Google's "AI Overview" box
+google.com##.GcKpu
+
+! Google's "From sources across the web" box
+google.com##.M8OgIe

@@ -17,6 +17,8 @@ This filter list removes the following from search engine results:
 ### Nuisances
 
 - Google's "People also search for" box ([why?](https://webapps.stackexchange.com/questions/115038/how-to-stop-googles-people-also-search-for))
+- Google's "AI Overview" box
+- Google's "From sources across the web" box
 
 ## Supported search engines:
 - Google
