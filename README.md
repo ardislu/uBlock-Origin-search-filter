@@ -19,6 +19,7 @@ This filter list removes the following from search engine results:
 - Google's "People also search for" box ([why?](https://webapps.stackexchange.com/questions/115038/how-to-stop-googles-people-also-search-for))
 - Google's "AI Overview" box
 - Google's "From sources across the web" box
+- dev.to (Forem) billboards
 
 ## Supported search engines:
 - Google
