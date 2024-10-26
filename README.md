@@ -20,6 +20,7 @@ This filter list removes the following from search engine results:
 - Google's "AI Overview" box
 - Google's "From sources across the web" box
 - dev.to (Forem) billboards
+- Medium's sign up banner
 
 ## Supported search engines:
 - Google

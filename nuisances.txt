@@ -13,3 +13,6 @@ google.com##.M8OgIe
 
 ! dev.to (Forem) billboards
 dev.to##div.js-billboard-container
+
+! Medium's sign up banner
+medium.com##div[style="bottom: 0px;"]
