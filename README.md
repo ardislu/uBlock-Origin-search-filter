@@ -4,6 +4,8 @@
 
 My personal [uBlock Origin](https://ublockorigin.com) filter list which removes low-quality websites and nuisances from search engine results.
 
+Code repository mirrors: [GitHub](https://github.com/ardislu/uBlock-Origin-search-filter), [Codeberg](https://codeberg.org/ardislu/uBlock-Origin-search-filter), [git.ardis.lu](https://git.ardis.lu/uBlock-Origin-search-filter)
+
 ## Filters
 
 This filter list removes the following from search engine results:
